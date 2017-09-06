@@ -13,7 +13,6 @@ using namespace std;
 //an example of recursion using integers
 int recursion(int a)
 {
-	
 	if (a/10>=1)
 	{
 		cout << a%10;
@@ -50,7 +49,6 @@ int main()
 	cout << endl<< "Enter writeBackward2 with string: " << y <<endl;
 	
 	writeBackward2(y);
-	
 	
 	return 0;
 }
