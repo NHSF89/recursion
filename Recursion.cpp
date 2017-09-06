@@ -1,7 +1,4 @@
 /*
-Nick Hannon
-M.Luttrel - CS110C
-Homework Assignment 1
 Recursion - This program is a homework assignment demonstrating 
 the presence of recursion in C++ programs. The first section of the program
 demonstrates utility in reversing an integer.
